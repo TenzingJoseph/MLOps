@@ -1,0 +1,4 @@
+outs:
+- md5: 248ece0db5928ed21f233e351e13e844
+  size: 1485470
+  path: bank_test.csv
